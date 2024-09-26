@@ -24,18 +24,15 @@ This repository implements a semantic segmentation model for image analysis, foc
    ```bash
    git clone https://github.com/shivamprasad1001/WMS-Image-Semantic-segmentation.git
    ```
-2. Install dependencies.
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebooks for training or testing.
+
+
 
 ## Dataset
 The dataset is included in the repository. It contains WMS-related images for semantic segmentation tasks.
 
 ## Results
-- The model achieves high accuracy in segmenting different warehouse components.
-- Example segmented images are available in the `results` folder.
+- The model achieves high accuracy if all epochs is trains in segmenting different warehouse components.
+
 
 ## Contact
 For any queries or collaboration, feel free to reach out via email: [Shivam](mailto:shivamprasad1001@gmail.com).

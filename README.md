@@ -4,7 +4,7 @@ Here’s the updated README file with your Gmail ID:
 
 # WMS Image Semantic Segmentation
 
-This repository implements a semantic segmentation model for image analysis, focusing on WMS (Warehouse Management Systems) images. The goal is to accurately segment various elements in warehouse images using deep learning techniques.
+This repository implements a semantic segmentation model for image analysis, focusing on WMS (Web Map Services) images The goal is to accurately segment various elements in warehouse images using deep learning techniques.
 
 ## Features
 - Preprocessing of images

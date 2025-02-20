@@ -1,6 +1,4 @@
-Here’s the updated README file with your Gmail ID:
 
----
 
 # WMS Image Semantic Segmentation
 
